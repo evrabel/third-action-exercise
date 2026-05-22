@@ -1,4 +1,4 @@
-name: Output Information
+name: Output Issues Event Details
 on:
   issues:
     types: [opened, edited, milestoned]
